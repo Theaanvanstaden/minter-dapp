@@ -9,20 +9,23 @@ const { NETWORK } = require(`${basePath}/constants/network.js`);
 const network = NETWORK.eth;
 
 // General metadata for Ethereum
-const namePrefix = "Snail Pace";
-const description = "Snail Pace is a collection of 1500 randomly generated snails living on the Blockchain. Snail Pace holders have the oppotunity to contribute towards world hunger and more. A certain percentage will go to Action Against Hunger as a donation. Don't let your pace of life determine who you are...";
+const namePrefix = "Adorable Koalas";
+const description = "Adorable Koalas is a collection of randomly generated Koalas living on the Polygon Blockchain.";
 const baseUri = "ipfs://NewUriToReplace"; // This will be replaced automatically
 
 // If you have selected Solana then the collection starts from 0 automatically
 const layerConfigurations = [
   {
-    growEditionSizeTo: 4500,
+    growEditionSizeTo: 5000,
     layersOrder: [
       { name: "Background" },
-      { name: "Eye" },
       { name: "Body" },
-      { name: "Shell" },
+      { name: "Clothes" },
+      { name: "Extras" },
+      { name: "Nose" },
       { name: "Mouth" },
+      { name: "Eyes" },
+      { name: "Holding" },
     ],
   },
 ];
