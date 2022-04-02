@@ -3,7 +3,7 @@ const chain = 'rinkeby'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to Adorable Koalas!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'Snail Pace is a collection of 1500 randomly generated snails living on the Ethereum Polygon blockchain. Snail Pace holders have the opportunity to contribute and fight against world hunger and more. A certain percentage will go to Action Against Hunger as a donation. Do not let your pace of life determine who you are...';
+const welcome_p = 'Adorable Koalas is a collection of randomly generated Koalas living on the Polygon Blockchain.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
