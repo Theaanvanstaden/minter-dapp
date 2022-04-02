@@ -8,7 +8,7 @@
   --font-primary: "Poppins", sans-serif;
   --font-secondary: "Arvo", serif;
   --font-code: "Roboto", monospace;
-  --bg-color: rgba(253, 60, 166, 0.918);
+  --background-image: linearGradient(to right, pink,orange,yellow,red,blue,indigo,violet)
   --bg-color-transparent: #2cb2ff94;
   --font-color: #ffffff;
   --btn-bg-color: #ff3c00;
