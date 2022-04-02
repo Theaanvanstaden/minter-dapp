@@ -8,7 +8,7 @@
   --font-primary: "Poppins", sans-serif;
   --font-secondary: "Arvo", serif;
   --font-code: "Roboto", monospace;
-  --background-image: linearGradient(to right, pink,orange,yellow,red,blue,indigo,violet)
+  --bg-color: rgba(253, 60, 166, 918);
   --bg-color-transparent: #2cb2ff94;
   --font-color: #ffffff;
   --btn-bg-color: #ff3c00;
@@ -24,7 +24,7 @@
 }
 
 body {
-  background-color: var(--background-image);
+  background-color: var(--bg-color);
   display: flex;
   flex-flow: column;
   height: 100vh;
