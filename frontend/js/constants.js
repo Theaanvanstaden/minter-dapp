@@ -1,7 +1,7 @@
-const contractAddress = "0xda91334De8BF50c61D46BcA8270205A0C88b9320"; //Replace with your own contract address
-const chain = 'polygon'; // rinkeby or polygon
+const contractAddress = "0x2b09A90A2865115cA36110A5C65b86e9dEA503Cb"; //Replace with your own contract address
+const chain = 'rinkeby'; // rinkeby or polygon
 
-const welcome_h1 = "Welcome to the Snail Pace NFT Project!!";
+const welcome_h1 = "Welcome to Adorable Koalas!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
 const welcome_p = 'Snail Pace is a collection of 1500 randomly generated snails living on the Ethereum Polygon blockchain. Snail Pace holders have the opportunity to contribute and fight against world hunger and more. A certain percentage will go to Action Against Hunger as a donation. Do not let your pace of life determine who you are...';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
